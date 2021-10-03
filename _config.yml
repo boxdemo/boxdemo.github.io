@@ -13,7 +13,7 @@ url:                 https://boxdemo.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "비전공자 개발자 블로그 입니다"
+tagline:             "비전공자 개발자 블로그 입니다."
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)

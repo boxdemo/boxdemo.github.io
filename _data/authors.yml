@@ -1,9 +1,9 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
-vvs:
+boxdemo:
   name:              boxdemo
-  email:             dleo_vvs@kakao.com
+  email:             yrkoo123@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -60,7 +60,7 @@ vvs:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    # email:           yrkoo123@gmail.com
+    email:           yrkoo123@gmail.com
     # rss:             https://khw11044.github.io/feed.xml
 
 # Another author
