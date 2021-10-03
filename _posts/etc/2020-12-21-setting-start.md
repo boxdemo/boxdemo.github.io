@@ -3,7 +3,7 @@ layout: post
 title:  "개발을 위한 컴퓨터 세팅"
 subtitle:   "python,데이터 사이언티스트, 인공지능 개발자를 위함"
 categories: etc
-tags: etc
+tags: 
 comments: true
 ---
 ## 개요
