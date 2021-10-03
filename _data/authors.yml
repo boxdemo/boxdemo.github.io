@@ -60,7 +60,7 @@ boxdemo:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           yrkoo123@gmail.com
+    email:           mailto:yrkoo123@gmail.com
     # rss:             https://khw11044.github.io/feed.xml
 
 # Another author
