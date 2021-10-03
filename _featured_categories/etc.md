@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Other
-slug: other
+title: Etc
+slug: etc
 menu: true
 submenu: false
 order: 6
