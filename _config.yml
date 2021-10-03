@@ -6,7 +6,7 @@ title:               따라쟁이의 블로그
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://<username>.github.io
+url:                 https://github.com/boxdemo/boxdemo.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
@@ -51,7 +51,7 @@ disqus: True
 disqus_shortname:    xxxx
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2020.12. by 따라쟁이'
+copyright:           '&copy; 2021.10. by boxdemo'
 
 # Format of the permalinks
 permalink:           
